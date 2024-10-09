@@ -1,30 +1,3 @@
-// // import React from 'react';
-// // import heroVideo from '../assets/hero1.mp4';
-// // import Navbar from './Navbar'; 
-// // import './Home.css';
-
-// // const Home = () => {
-// //   return (
-// //     <div className="home-container">
-// //       <Navbar />
-// //       <video autoPlay muted loop className="background-video">
-// //         <source src={heroVideo} type="video/mp4" />
-// //         Your browser does not support the video tag.
-// //       </video>
-// //       <div className="content">
-// //         <h1>Welcome to Music Hub</h1>
-// //         <p>Experience the best music in every beat.</p>
-// //         <button className="cta-button">Explore Now</button>
-// //       </div>
-// //     </div>
-// //   );
-// // };
-
-// // export default Home;
-
-
-// after animation
-
 import React, { useState } from 'react';
 import heroVideo from '../assets/hero1.mp4';
 import Navbar from './Navbar'; 
